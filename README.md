@@ -13,7 +13,6 @@ Esse cliente consome os dados disponibilizados pelo servidor implementado em htt
   
 ## Armazenamento
 * GitHub  
-* Travis CI: Serviço de integração contínua, usado para criar e testar projetos de software hospedados no GitHub  
   
   
 ## Pacotes
