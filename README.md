@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/diegomrodrigues/wsdl-cliente.svg?branch=master)](https://travis-ci.org/diegomrodrigues/wsdl-cliente)
-
 # Cliente de WebService SOAP com o Spring Boot
 Utilização do Spring Boot para criar um cliente para um WebService SOAP.  
 
